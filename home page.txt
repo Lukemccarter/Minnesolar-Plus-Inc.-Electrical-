@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Reliable electrical contracting services in [The West Metro Area]. Wiring, installations, repairs, and more. Contact us today!">
+    <meta name="keywords" content="electrical contractor, electrician [The West Metro Area], wiring services, electrical repairs">
+    <title>Electrical Contracting Company | [Minnesolar Plus Inc.]</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="https://remacconstruction.com" target="_blank">General Contracting</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h1>Welcome to [Minnesolar Plus Inc.] Electrical</h1>
+            <p>Expert electrical services for homes and businesses in [The West Metro Area].</p>
+            <a href="contact.html" class="cta">Get a Free Quote</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 [Minnesolar Plus Inc.]. All rights reserved.</p>
+    </footer>
+</body>
+</html>
