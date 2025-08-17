@@ -1,31 +1,17 @@
-<form
-  action="https://formspree.io/f/{FORM_ID}"
-  class="fs-form"
-  target="_top"
-  method="POST"
->
-  <div class="fs-field">
-    <label class="fs-label" for="name">Your Name</label>
-    <input class="fs-input" id="name" name="name" required />
-  </div>
-  <div class="fs-field">
-    <label class="fs-label" for="email">Email</label>
-    <input class="fs-input" id="email" name="email" required />
-    <p class="fs-description">
-      This will help me respond to your query via an email.
-    </p>
-  </div>
-  <div class="fs-field">
-    <label class="fs-label" for="message">Message</label>
-    <textarea
-      class="fs-textarea"
-      id="message"
-      name="message"
-      required
-    ></textarea>
-    <p class="fs-description">What would you like to discuss?</p>
-  </div>
-  <div class="fs-button-group">
-    <button class="fs-button" type="submit">Submit</button>
-  </div>
-</form>
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; color: #333; }
+header { background: #333; color: white; padding: 10px; }
+nav ul { list-style: none; display: flex; justify-content: center; padding: 0; margin: 0; }
+nav li { margin: 0 15px; }
+nav a { color: white; text-decoration: none; font-weight: bold; }
+.hero { text-align: center; padding: 50px; background: #eee; }
+h1 { color: #007bff; }
+.cta { background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+main { padding: 20px; max-width: 800px; margin: 0 auto; }
+ul { list-style: disc; padding-left: 20px; }
+form { max-width: 400px; margin: 0 auto; }
+label { display: block; margin: 10px 0; }
+input, textarea { width: 100%; padding: 8px; }
+button { background: #007bff; color: white; border: none; padding: 10px; cursor: pointer; }
+footer { text-align: center; padding: 10px; background: #333; color: white; }
+img { max-width: 100%; height: auto; display: block; margin: 0 auto 20px; }
+@media (max-width: 600px) { nav ul { flex-direction: column; } nav li { margin: 10px 0; } }
