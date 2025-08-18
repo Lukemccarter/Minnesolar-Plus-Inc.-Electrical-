@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Use | Minnesolar Plus Inc. Electrical</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main>
+        <h1>Terms of Use</h1>
+        <p>By using this site, you agree to these terms.</p>
+        <h2>Site Use</h2>
+        <p>Content is for informational purposes only. We disclaim all warranties.</p>
+        <h2>Liability</h2>
+        <p>We're not liable for damages from site use. Quotes are non-binding estimates.</p>
+        <h2>Links</h2>
+        <p>We link to remacconstruction.com—their terms apply there.</p>
+        <h2>Governing Law</h2>
+        <p>Minnesota law applies.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 Minnesolar Plus Inc. All rights reserved. | <a href="index.html">Home</a> | <a href="terms.html">Terms of Use</a> | <a href="privacy.html">Privacy Policy</a></p>
+    </footer>
+</body>
+</html>
